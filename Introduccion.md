@@ -14,15 +14,21 @@ ___
         * RedHat
         * Otras familias
     - Entorno gráfico
-        * Servidores de pantalla
+        * Servidores gráficos
             1. XWindow
             2. Wayland
             3. Otros
                 - SurfaceFlinger
                 - Mir
-        * Gestor de ventanas
         * Entorno de escritorio
+            1. GNOME
+            2. KDE
+            3. Xfce
+            4. CDE
+        * Gestor de ventanas
+       
 ___
-
+## Actividades
 #### Diapo -> IntroLinux
-
+___
+Nota: Introducción únicamente teórica.
